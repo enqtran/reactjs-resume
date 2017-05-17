@@ -1,0 +1,108 @@
+{
+	"name": "Enqtran",
+	"email": "admin@enqtran.com",
+	"phone": "086 885 4293",
+	"image": "assets/images/logo.png",
+	"website": "https://enqtran.com",
+	"author": "enqtran",
+	"twitter": "@enqtran",
+	"twitterURL": "https://twitter.com/enqtran",
+	"github": "@enqtran",
+	"githubURL": "https://github.com/enqtran",
+	"experiences": [
+		{
+			"title": "Developer",
+			"period": "07/2016 - Present",
+			"company": "GVN Technology",
+			"companyURL": "http://programmingbuddy.club",
+			"details": "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo."
+		},
+		{
+			"title": "Developer Amater",
+			"period": "10/2015 - 06/2016",
+			"company": "SR JSC",
+			"companyURL": "http://programmingbuddy.club",
+			"details": "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo."
+		}
+	],
+	"projects": [
+		{
+			"name": "PHP",
+			"url": "https://enqtran.com",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name": "WORDPRESS",
+			"url": "https://enqtran.com",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name": "FRONTEND",
+			"url": "https://enqtran.com",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name": "REACT NATIVE",
+			"url": "https://enqtran.com",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name": "REACT JS",
+			"url": "https://enqtran.com",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		}
+	],
+	"skills": [
+		{
+			"name": "HTML5 & CSS ",
+			"percent": "90%"
+		},
+		{
+			"name": "Javascript & jQuery",
+			"percent": "90%"
+		},
+		{
+			"name": "PHP",
+			"percent": "75%"
+		},
+		{
+			"name": "WORDPRESS",
+			"percent": "75%"
+		},
+		{
+			"name": "REACT NATIVE",
+			"percent": "60%"
+		},
+		{
+			"name": "REACT JS",
+			"percent": "60%"
+		}
+	],
+	"education": [
+		{
+			"degree": "MSc in Computer Science",
+			"university": "University of London",
+			"period": "2011 - 2014"
+		},
+		{
+			"degree": "BSc in Applied Mathematics",
+			"university": "Bristol University",
+			"period": "2007 - 2011"
+		}
+	],
+	"languages": [
+		{
+			"name": "Vietnamese",
+			"details": "Native"
+		},
+		{
+			"name": "English",
+			"details": "Professional"
+		}
+	],
+	"interests": [
+		"Coding",
+		"Gaming",
+		"...."
+	]
+}
